@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+	<head>
+    <style>
+       body {
+       	background-color: lightblue;
+       }
+ 	   h1 {
+    	color: blue;
+        text-align: center;
+        }
+       h2 {
+       text-align: center;
+       }
+       #anger {
+       color: red;
+       text-align: left;
+       text-transform: uppercase;
+       letter-spacing: -1.5px;
+       }
+       h1.anger {
+       color: red;
+       }
+    </style>
+		<title>My OK Website</title>
+	</head>
+	<body>
+		<h1>What my dad did today</h1>
+		<h2>He poured water on me so that I would wake up.</h2>
+        <div id="anger">
+        	<h2>I am mad</h2>
+            <h1> Very MAD</h1>
+        </div>
+
+	</body>
+</html>
